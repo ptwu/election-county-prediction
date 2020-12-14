@@ -9,7 +9,6 @@ async-generator==1.10
 attrs==20.3.0
 Automat==0.6.0
 backcall==0.2.0
-battlehack20==1.0.3
 bleach==3.2.1
 blinker==1.4
 cached-property==1.5.2
