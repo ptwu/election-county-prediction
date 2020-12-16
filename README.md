@@ -1,5 +1,5 @@
 # election-county-prediction
-cs 4780 final project - We will be gooning with Tensorflow for this project.
+cs 4780 final project - We will be working with Tensorflow for this project.
 
 ## Virtual Env
 This will make sure that everyone is working on the same python environment so that we don't run into issues there.
