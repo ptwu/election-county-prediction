@@ -18,7 +18,7 @@ Activate the virtual environment, this changes the env just a local copy of pyth
 
 Install the same set of modules that every one else is using:
 ```
-pip install -r ureq.txt
+pip install -r ureq2.txt
 ```
 
 ### Post Install - How to do daily work
